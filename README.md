@@ -18,7 +18,7 @@ Nesse desafio, recriei uma aplicação a partir de um layout, para por em pr
 <br>
 
 <p align="center">
-  <img alt="móveis customizados" src=".github/preview.jpg" width="100%">
+  <img alt="móveis customizados" src="github.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
